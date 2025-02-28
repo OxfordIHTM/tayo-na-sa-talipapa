@@ -35,14 +35,32 @@ This repository aims to provide as much information as possible to allow anyone 
 
 2. Each envelope contains cards representing commodities with corresponding point values. Plan to use 5-6 commodities that are appropriate for the context. In the Philippines context, the following goods/commodities are commonly used for this game with their corresponding point values:
 
-**Goods** | **Points**
-:--- | ---:
-fruits | 5
+**Goods**  | **Points**
+:---       | ---:
+fruits     | 5
 vegetables | 10
-fish | 15
-chicken | 20
+fish       | 15
+chicken    | 20
 pig / goat | 30
-cattle | 75
+cattle     | 75
 
 3. Extra card commodities which are to be introduced into the market later on in the game.
+
+
+### Bonus points
+
+The following combination of goods will provide the corresponding bonus points:
+
+**Combination** | **Additional points**
+:--- | ---:
+three of a kind | 5
+four of a kind  | 10
+five of a kind  | 15
+
+### Preparation
+
+* Distribute the envelopes to the players.
+* Without making them reveal their goods to each other, ask them to tally their points and be categorised into subgroups.
+* Post the names of the players and their starting totals on the board under their predetermined categories.
+* Ask them to group together accordingly.
 
