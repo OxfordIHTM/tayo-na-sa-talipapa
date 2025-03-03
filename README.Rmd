@@ -36,7 +36,7 @@ This repository aims to provide as much information as possible to allow anyone 
 
 ### Game kit
 
-1. Color coded envelopes representing three (3) groups dependent on point values: *Taga-bayan* (well-to-do); *Taga-baryo* (average); *Taga-bundok* (poor).
+1. Color coded envelopes representing three (3) groups dependent on point values: *Taga-bayan* (well-to-do); *Taga-baryo* (average); *Taga-bundok* (poor). Any other relevant names to the groupings/categories can be used that would be most appropriate to the audience and to the context.
 
 2. Each envelope contains cards representing commodities with corresponding point values. Plan to use 5-6 commodities that are appropriate for the context. In the Philippines context, the following goods/commodities are commonly used for this game with their corresponding point values:
 
@@ -64,8 +64,66 @@ five of a kind  | 15
 
 ### Preparation
 
-* Distribute the envelopes to the players.
-* Without making them reveal their goods to each other, ask them to tally their points and be categorised into subgroups.
-* Post the names of the players and their starting totals on the board under their predetermined categories.
-* Ask them to group together accordingly.
+* Distribute the envelopes to the participants.
+* Without making participants reveal their goods to each other, ask participants to tally their points and be categorised into subgroups.
+* Post the names of the participants and their starting totals on the board under their predetermined categories.
+* Ask participants to group together accordingly.
+
+## General Rules
+
+It is important to explain some rules before trading time.
+
+1. Trading can be done with anybody, but only at a given time which lasts for about 2 minutes.
+
+2. Trading done outside the given time will mean confiscation of goods.
+
+3. Only one-on-one trading is allowed.
+
+4. An on-going transaction is signified by the two parties locking arms.
+
+5. Trading partners must agree verbally on trading conditions.
+
+6. Only when they have agreed can they unlock arms.
+
+7. Refusal to trade is signified by crossing the arms.
+
+## Starting Play
+
+* The main facilitator invites the participants to trade by saying: “Tayo na sa talipapa!” Participants then commence trading among themselves. The main facilitator warns off and announces the end of the trading session.
+
+* After the trading session, participants go back to their groups and report their points to their respective facilitators who record these on the board.
+
+* The facilitators distribute 3 of the highest point commodity/asset to each group. The members of each group decide how the these additional items will be distributed.
+
+* When the bakas have been distributed, the new points will be reported. The facilitator changes the groupings according to the new points.
+
+* The top `n` (to be determined based on the number of participants) traders who got the highest scores will now become the *taga-bayans* or any other appropriate label for this category. Their ceiling and floor scores will be used as range for their categories.
+
+* The next `n` (to be determined based on the number of participants) highest scorers will be the *taga-baryos* or any other appropriate label for this category. Again ceiling and scores will determine range of their class. The rest will be the *taga-bundoks* or any other appropriate label for this category.
+
+* The facilitator grants the taga-bayans the power to amend or make new rules of trading. The other groups must abide by the rules set by them.
+
+* Thereafter, score assessment and re-classification will be done after every trading time. The group with the highest scores is given the power to change the rules after each trading.
+
+* The number of trading sessions will depend on the dynamics of the group.
+
+## Processing
+
+1. The following guide questions may be used for discussions and processing:
+
+    a. What were your significant experiences during the trading sessions? How did you feel? Why?
+    
+    b. Do you see patterns regarding the following aspects in the game
+
+        * Distribution of goods/grouping of people
+        * Mobility between social groupings
+        * Decision-making power in setting rules
+        
+    c. What parallels with the actual Philippine situation can you draw from the game?
+
+2. The participants are divided into small groups for sharing and discussion.
+
+3. A representative from each group reports the main points in their discussion.
+
+4. The facilitator synthesizes all the group reports.
 
