@@ -174,3 +174,9 @@ It is important to explain some rules before trading time.
     discussion.
 
 4.  The facilitator synthesizes all the group reports.
+
+## Further reading and references
+
+1.  <https://pdfcoffee.com/tayo-na-sa-talipapa-pdf-free.html>
+
+2.  <https://www.hurights.or.jp/archives/pdf/asia-s-ed/v04/04soto.pdf>
