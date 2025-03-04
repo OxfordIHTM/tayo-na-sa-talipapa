@@ -162,8 +162,8 @@ ggsave(
 
 talipapa_scores_long |>
   ggplot(mapping = aes(x = game_round, y = score, group = id)) +
-  geom_point(size = 3, colour = get_oxford_colour("sky")) +
-  geom_line(linewidth = 2, colour = get_oxford_colour("sky")) +
+  geom_point(size = 2, colour = get_oxford_colour("sky")) +
+  geom_line(linewidth = 1, colour = get_oxford_colour("sky")) +
   labs(
     title = "Total points scored per round",
     subtitle = "Tayo na sa talipapa 2025",
@@ -174,7 +174,7 @@ talipapa_scores_long |>
   ) +
   facet_wrap(. ~ id, ncol = 4) +
   theme_oxford(
-    base_size = 12, grid = "YX", strip_text_size = 14, strip_text_face = "bold"
+    base_size = 12, grid = "Y", strip_text_size = 14, strip_text_face = "bold"
   )
 
 #### Save plot ----
@@ -197,8 +197,8 @@ talipapa_scores_processsed |>
       gsub("round", replacement = "Round ", x = _)
   ) |>
   ggplot(mapping = aes(x = game_round, y = change, group = id)) +
-  geom_point(size = 3, colour = get_oxford_colour("sky")) +
-  geom_line(linewidth = 2, colour = get_oxford_colour("sky")) +
+  geom_point(size = 2, colour = get_oxford_colour("sky")) +
+  geom_line(linewidth = 1, colour = get_oxford_colour("sky")) +
   labs(
     title = "Net change in total points scored per round",
     subtitle = "Tayo na sa talipapa 2025",
@@ -209,7 +209,7 @@ talipapa_scores_processsed |>
   ) +
   facet_wrap(. ~ id, ncol = 4) +
   theme_oxford(
-    base_size = 12, grid = "YX", strip_text_size = 14, strip_text_face = "bold"
+    base_size = 12, grid = "Y", strip_text_size = 14, strip_text_face = "bold"
   )
 
 #### Save plot ----
