@@ -170,11 +170,11 @@ talipapa_scores_long |>
     x = "Round", y = "Score"
   ) +
   scale_y_continuous(
-    breaks = seq(from = 0, to = 400, by = 50), limits = c(0, 400)
+    breaks = seq(from = 0, to = 400, by = 100), limits = c(0, 400)
   ) +
   facet_wrap(. ~ id, ncol = 4) +
   theme_oxford(
-    base_size = 12, grid = "Y", strip_text_size = 14, strip_text_face = "bold"
+    base_size = 12, grid = "Yy", strip_text_size = 14, strip_text_face = "bold"
   )
 
 #### Save plot ----
@@ -194,7 +194,8 @@ talipapa_scores_processsed |>
   ) |>
   mutate(
     game_round = gsub("_change", replacement = "", x = game_round) |>
-      gsub("round", replacement = "Round ", x = _)
+      gsub("round", replacement = "", x = _) |>
+      as.integer()
   ) |>
   ggplot(mapping = aes(x = game_round, y = change, group = id)) +
   geom_point(size = 2, colour = get_oxford_colour("sky")) +
@@ -205,7 +206,7 @@ talipapa_scores_processsed |>
     x = "Round", y = "Net change"
   ) +
   scale_y_continuous(
-    breaks = seq(from = -100, to = 180, by = 40), limits = c(-100, 180)
+    breaks = seq(from = -180, to = 180, by = 40), limits = c(-180, 180)
   ) +
   facet_wrap(. ~ id, ncol = 4) +
   theme_oxford(
