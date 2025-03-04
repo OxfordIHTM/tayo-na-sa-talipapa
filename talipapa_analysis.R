@@ -206,7 +206,7 @@ talipapa_scores_processsed |>
     x = "Round", y = "Net change"
   ) +
   scale_y_continuous(
-    breaks = seq(from = -180, to = 180, by = 40), limits = c(-180, 180)
+    breaks = seq(from = -180, to = 180, by = 60), limits = c(-180, 180)
   ) +
   facet_wrap(. ~ id, ncol = 4) +
   theme_oxford(
