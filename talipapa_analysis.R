@@ -114,6 +114,7 @@ talipapa_scores_long |>
   scale_color_manual(
     values = oxford_theme_palettes()[c(5, 4, 3)] |> 
       unlist() |>
+      (\(x) x[c(1:10, 12, 15)])() |>
       setNames(nm = NULL)
   )
 
@@ -148,6 +149,7 @@ talipapa_scores_long |>
   scale_color_manual(
     values = oxford_theme_palettes()[c(5, 4, 3)] |> 
       unlist() |>
+      (\(x) x[c(1:10, 12, 15)])() |>
       setNames(nm = NULL)
   )
 
@@ -181,7 +183,7 @@ talipapa_scores_long |>
 #### Save plot ----
 ggsave(
   filename = "outputs/line_chart_per_round_score.png",
-  width = 8, height = 10, units = "in"
+  width = 8, height = 12, units = "in"
 )
 
 
@@ -221,5 +223,5 @@ talipapa_scores_processsed |>
 #### Save plot ----
 ggsave(
   filename = "outputs/line_chart_per_round_score_change.png",
-  width = 8, height = 10, units = "in"
+  width = 8, height = 12, units = "in"
 )
