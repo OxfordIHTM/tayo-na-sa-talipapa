@@ -11,7 +11,8 @@ This repository contains detailed description on **Tayo na sa talipapa
 (Let us go to the market)** game used as a teaching aid for topics on
 **Development and Nutrition** and **Developent and Health** of the
 **International Development and Health** module of the [MSc in
-International Health and Tropical Medicine]().
+International Health and Tropical
+Medicine](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm).
 
 This repository aims to provide as much information as possible to allow
 anyone to facilitate the game in their own context.
@@ -25,7 +26,7 @@ globally. The game has its origins in the Philippines where it has been
 used as a method to introduce the topic of structural injustice to new
 members of various social movements.
 
-## Mechanics of the game
+### Mechanics of the game
 
 1.  Each participant are given goods in the form of picture cards with
     corresponding point-values.
@@ -42,7 +43,7 @@ members of various social movements.
 4.  Bonus points are given to persons who acquire three or more of a
     kind.
 
-### Game kit
+#### Game kit
 
 1.  Color coded envelopes representing three (3) groups dependent on
     point values: *Taga-bayan* (well-to-do); *Taga-baryo* (average);
@@ -68,7 +69,7 @@ members of various social movements.
 3.  Extra card commodities which are to be introduced into the market
     later on in the game.
 
-### Bonus points
+#### Bonus points
 
 The following combination of goods will provide the corresponding bonus
 points:
@@ -79,17 +80,20 @@ points:
 | four of a kind  |                    10 |
 | five of a kind  |                    15 |
 
-### Preparation
+#### Preparation
 
   - Distribute the envelopes to the participants.
+
   - Without making participants reveal their goods to each other, ask
     participants to tally their points and be categorised into
     subgroups.
+
   - Post the names of the participants and their starting totals on the
     board under their predetermined categories.
+
   - Ask participants to group together accordingly.
 
-## General Rules
+### General Rules
 
 It is important to explain some rules before trading time.
 
@@ -109,7 +113,7 @@ It is important to explain some rules before trading time.
 
 7.  Refusal to trade is signified by crossing the arms.
 
-## Starting Play
+### Starting Play
 
   - The main facilitator invites the participants to trade by saying:
     “Tayo na sa talipapa\!” Participants then commence trading among
@@ -150,7 +154,7 @@ It is important to explain some rules before trading time.
   - The number of trading sessions will depend on the dynamics of the
     group.
 
-## Processing
+### Processing
 
 1.  The following guide questions may be used for discussions and
     processing:
