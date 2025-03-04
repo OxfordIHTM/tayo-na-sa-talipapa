@@ -175,7 +175,8 @@ talipapa_scores_long |>
   facet_wrap(. ~ id, ncol = 4) +
   theme_oxford(
     base_size = 12, grid = "Yy", strip_text_size = 14, strip_text_face = "bold"
-  )
+  ) +
+  theme(panel.grid = element_line(linewidth = 1))
 
 #### Save plot ----
 ggsave(
@@ -205,13 +206,17 @@ talipapa_scores_processsed |>
     subtitle = "Tayo na sa talipapa 2025",
     x = "Round", y = "Net change"
   ) +
+  scale_x_continuous(breaks = c(1, 2, 3)) +
   scale_y_continuous(
     breaks = seq(from = -180, to = 180, by = 60), limits = c(-180, 180)
   ) +
   facet_wrap(. ~ id, ncol = 4) +
   theme_oxford(
-    base_size = 12, grid = "Y", strip_text_size = 14, strip_text_face = "bold"
-  )
+    base_size = 12, 
+    grid = "Yy",  
+    strip_text_size = 14, strip_text_face = "bold"
+  ) +
+  theme(panel.grid = element_line(linewidth = 1))
 
 #### Save plot ----
 ggsave(
