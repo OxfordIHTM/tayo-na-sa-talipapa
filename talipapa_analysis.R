@@ -174,7 +174,7 @@ talipapa_scores_long |>
   scale_y_continuous(
     breaks = seq(from = 0, to = 400, by = 100), limits = c(0, 400)
   ) +
-  facet_wrap(. ~ id, ncol = 4) +
+  facet_wrap(. ~ id, ncol = 6) +
   theme_oxford(
     base_size = 12, grid = "Yy", strip_text_size = 14, strip_text_face = "bold"
   ) +
@@ -183,7 +183,7 @@ talipapa_scores_long |>
 #### Save plot ----
 ggsave(
   filename = "outputs/line_chart_per_round_score.png",
-  width = 8, height = 12, units = "in"
+  width = 12, height = 8, units = "in"
 )
 
 
@@ -212,7 +212,7 @@ talipapa_scores_processsed |>
   scale_y_continuous(
     breaks = seq(from = -180, to = 180, by = 60), limits = c(-180, 180)
   ) +
-  facet_wrap(. ~ id, ncol = 4) +
+  facet_wrap(. ~ id, ncol = 6) +
   theme_oxford(
     base_size = 12, 
     grid = "Yy",  
@@ -223,5 +223,5 @@ talipapa_scores_processsed |>
 #### Save plot ----
 ggsave(
   filename = "outputs/line_chart_per_round_score_change.png",
-  width = 8, height = 12, units = "in"
+  width = 12, height = 8, units = "in"
 )
