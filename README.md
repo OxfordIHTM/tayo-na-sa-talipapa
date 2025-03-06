@@ -191,8 +191,6 @@ It is important to explain some rules before trading time.
 
 ## License
 
-## License
-
 All code used in this repository is released under a
 [GPL-3.0](https://opensource.org/licenses/gpl-3.0.html) license. All
 text in this repository is released under a
