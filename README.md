@@ -5,6 +5,10 @@
 
 <!-- badges: start -->
 
+![License for
+code](https://img.shields.io/badge/license_for_code-GPL3.0-blue)
+![License for
+text](https://img.shields.io/badge/license_for_writing-CC_BY_4.0-blue)
 <!-- badges: end -->
 
 This repository contains detailed description on **Tayo na sa talipapa
@@ -184,3 +188,12 @@ It is important to explain some rules before trading time.
 1.  <https://pdfcoffee.com/tayo-na-sa-talipapa-pdf-free.html>
 
 2.  <https://www.hurights.or.jp/archives/pdf/asia-s-ed/v04/04soto.pdf>
+
+## License
+
+## License
+
+All code used in this repository is released under a
+[GPL-3.0](https://opensource.org/licenses/gpl-3.0.html) license. All
+text in this repository is released under a
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
