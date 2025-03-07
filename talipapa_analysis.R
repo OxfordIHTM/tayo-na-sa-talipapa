@@ -7,6 +7,13 @@ gc(full = TRUE)
 ## Set working directory ----
 setwd("/home/ernestguevarra/Documents/GitHub/tayo-na-sa-talipapa")
 
+## Set options for install repositories ----
+options(
+  repos = c(
+    'https://oxfordihtm.r-universe.dev', 'https://cloud.r-project.org'
+  )
+)
+
 ## Load libraries/dependencies ----
 library(dplyr)
 library(tidyr)
